@@ -144,6 +144,7 @@ This gives the message that notebook is running at http://localhost:8888/?token=
 Run this on the local machine to set up a tunnel from your local machine to access Jupyter over ssh.
 
 > ssh -i .ssh/google_compute_engine -L 8899:localhost:8888 public_ip_of_instance
+
 >Navigate to http://localhost:8899/
 
 Refrence: https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
