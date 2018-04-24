@@ -1,5 +1,7 @@
 > gcloud compute ssh gpu-deep-learner --zone us-east1-d
+
 > conda create -n deepLearning --file CapstoneMLND_reqs.txt
+
 Simple steps to setting up an GPU instance on Google-Cloud and running the first DeepLearning Model.
 
 Are you super excited ??
