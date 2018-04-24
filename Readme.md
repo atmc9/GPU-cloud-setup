@@ -2,6 +2,8 @@
 
 > conda create -n deepLearning --file CapstoneMLND_reqs.txt
 
+
+
 Simple steps to setting up an GPU instance on Google-Cloud and running the first DeepLearning Model.
 
 Are you super excited ??
@@ -149,4 +151,9 @@ Run this on the local machine to set up a tunnel from your local machine to acce
 
 >Navigate to http://localhost:8899/
 
+
+If you have problem in showing the new kernals, please do install > "conda install nb_conda_kernals"
+
 Refrence: https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
+
+
