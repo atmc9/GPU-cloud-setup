@@ -1,6 +1,7 @@
 > gcloud compute ssh gpu-deep-learner --zone us-east1-d
 
 > source activate myenv
+
 > conda create -n deepLearning --file environment.yml
 
 Simple steps to setting up an GPU instance on Google-Cloud and running the first DeepLearning Model.
